@@ -6,7 +6,7 @@ This website shows the landing page of delani studio.One can be able to see
 the projects and their name by use of hovering. You can also be able to
 contact the studio incase of any questions.
 ## Setup/Installation Requirements
-* clone the following repo 
+* clone the following repo https://github.com/conceptacherono/Delani-Studio.git
 * use your desired folder on your machine and clone
 the repo there
 * open your project on live server.
