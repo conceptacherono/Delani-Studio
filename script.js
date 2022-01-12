@@ -42,17 +42,19 @@ $(document).ready(function(){
 
 // image hover
 $(document).ready(function(){
-    $("#img1").mouseenter(function(){
+    $("#img1").mouseover(function(){
         $("#txt1").show();
+        $("#img1").css({'opacity':'0.6'})
         
     });
-    $("#img1").mouseleave(function(){
+    $("#img1").mouseout(function(){
         $("#txt1").hide();
         
     })
 
     $("#img2").mouseenter(function(){
         $("#txt2").show();
+        $("#img2").css({'opacity':'0.6'})
     });
     $("#img2").mouseleave(function(){
         $("#txt2").hide();
