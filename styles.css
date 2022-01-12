@@ -91,13 +91,14 @@
 }
 .items p{
     align-self: center;
-    display: block;
+    display: none;
     text-align: center;
     background-color: black;
     color: white;
     z-index:1;
     position: relative;
     right: 70%;
+
     
 }
 .contactus{

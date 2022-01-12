@@ -62,6 +62,7 @@ $(document).ready(function(){
 
     $("#img3").mouseenter(function(){
         $("#txt3").show();
+        $("#img3").css({'opacity':'0.6'})
     });
     $("#img3").mouseleave(function(){
         $("#txt3").hide();
@@ -69,6 +70,7 @@ $(document).ready(function(){
 
     $("#img4").mouseenter(function(){
         $("#txt4").show();
+        $("#img4").css({'opacity':'0.6'})
     });
     $("#img4").mouseleave(function(){
         $("#txt4").hide();
@@ -76,6 +78,7 @@ $(document).ready(function(){
 
     $("#img5").mouseenter(function(){
         $("#txt5").show();
+        $("#img5").css({'opacity':'0.6'})
     });
     $("#img5").mouseleave(function(){
         $("#txt5").hide();
@@ -83,6 +86,7 @@ $(document).ready(function(){
 
     $("#img6").mouseenter(function(){
         $("#txt6").show();
+        $("#img6").css({'opacity':'0.6'})
     });
     $("#img6").mouseleave(function(){
         $("#txt6").hide();
@@ -90,6 +94,7 @@ $(document).ready(function(){
 
     $("#img7").mouseenter(function(){
         $("#txt7").show();
+        $("#img7").css({'opacity':'0.6'})
     });
     $("#img7").mouseleave(function(){
         $("#txt7").hide();
@@ -97,6 +102,7 @@ $(document).ready(function(){
 
     $("#img8").mouseenter(function(){
         $("#txt8").show();
+        $("#img8").css({'opacity':'0.6'})
     });
     $("#img8").mouseleave(function(){
         $("#txt8").hide();
